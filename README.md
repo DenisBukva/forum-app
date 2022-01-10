@@ -1,4 +1,5 @@
 # forum-app
+heroku: https://forum-app-denis.herokuapp.com/
  How to run app
  git clone https://github.com/DenisBukva/forum-app.git
 
