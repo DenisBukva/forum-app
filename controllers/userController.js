@@ -47,6 +47,7 @@ exports.editProfileDetails = async (req, res) => {
 	}
 };
 
+
 exports.editPassword = (req, res, next) => {
 	User.findById(req.userId, (err, user) => {
 		if (err) {

@@ -1,16 +1,17 @@
 # forum-app
 heroku: https://forum-app-denis.herokuapp.com/
  How to run app
+ 
  git clone https://github.com/DenisBukva/forum-app.git
 
 In vs code open Terminal
-#cd server
+in root folder
 #npm install
 
 #cd client
 #npm install
 
-#npm run devstart for server
+#npm run devstart for backend
 #npm run start for client
 
 #dependencies in the app
@@ -21,6 +22,7 @@ redux
 redux-thunk
 helmet
 axios
+Formik
 react-fontawesome
 material-ui
 
